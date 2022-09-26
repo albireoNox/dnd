@@ -30,7 +30,7 @@ All spells listed in normal text are included from the list published in the DMG
 
 [Arcane Mark](https://www.dandwiki.com/wiki/SRD:Arcane_Mark)
 
-~~Cure Minor Wounds~~ Removing cures in favor of vigor spells
+[Cure Minor Wounds](https://www.d20srd.org/srd/spells/cureMinorWounds.htm)
 
 [Dancing Lights](https://www.d20srd.org/srd/spells/dancingLights.htm)
 
@@ -60,19 +60,21 @@ All spells listed in normal text are included from the list published in the DMG
 
 [Cause Fear](https://www.d20srd.org/srd/spells/causeFear.htm)
 
-~~Change Self~~  - I could not actually find this spell anywhere
-
 [Charm Person](https://www.d20srd.org/srd/spells/charmPerson.htm)
 
 [Command](https://www.d20srd.org/srd/spells/command.htm)
 
 [Comprehend Languages](https://www.d20srd.org/srd/spells/comprehendLanguages.htm)
 
-~~Cure Light Wounds~~ Removing cures in favor of vigor spells
+[Cure Light Wounds](https://www.d20srd.org/srd/spells/cureLightWounds.htm) 
+
+*Disguise Self*[^Player's Handbook p.222 ]
 
 [Doom](https://www.d20srd.org/srd/spells/doom.htm)
 
 [Endure Elements](https://www.d20srd.org/srd/spells/endureElements.htm)
+
+[Entangle](https://www.d20srd.org/srd/spells/entangle.htm)
 
 *Ghost Light*[^Complete Arcane p.109] - Creates light that can cause creatures nearby to be shaken
 
@@ -110,7 +112,7 @@ All spells listed in normal text are included from the list published in the DMG
 
 *Chameleon*[^Complete Arcane p.100] - Hides people by making the blend in to background
 
-~~Cure Moderate Wounds~~ Removing cures in favor of vigor spells
+[Cure Moderate Wounds](https://www.d20srd.org/srd/spells/cureModerateWounds.htm) 
 
 *Curse of Ill Fortune*[^Complete Divine p.160] - Temporary curse imposing -3 to attack, saving throw, ability check, and skill check rolls. 
 
@@ -120,9 +122,11 @@ All spells listed in normal text are included from the list published in the DMG
 
 [Enthrall](https://www.d20srd.org/srd/spells/enthrall.htm)
 
+*Familiar Pocket*[^Complete Arcane p.106]
+
 *Kiss of the Toad*[^Complete Arcane p.113] - Poisons a creature on a touch attack. Included largely due to the name
 
-~~Invisibility~~ - Seems a little to wizard-y. Removed in favor of chameleon
+[Invisibility](https://www.d20srd.org/srd/spells/invisibility.htm) 
 
 [Locate Object](https://www.d20srd.org/srd/spells/locateObject.htm)
 
@@ -150,6 +154,8 @@ All spells listed in normal text are included from the list published in the DMG
 
 [Dispel Magic](https://www.d20srd.org/srd/spells/dispelMagic.htm) - Seems a little too wizard-y, but pretty much every caster class has this so for now keeping it from the original list. 
 
+*Enhance Familiar*[^Complete Arcane p.105]
+
 (Leomund's) [Tiny Hut](https://www.d20srd.org/srd/spells/tinyHut.htm)
 
 *Hesitate*[^Player's Handbook II p.114] - Can cause the subject to take no action other than move. 
@@ -161,6 +167,8 @@ Magic Circle Against Chaos/Law/[Evil](https://www.d20srd.org/srd/spells/magicCir
 [Rage](https://www.d20srd.org/srd/spells/rage.htm)
 
 [Remove Blindness/Deafness](https://www.d20srd.org/srd/spells/removeBlindnessDeafness.htm)
+
+[Spike Growth](https://www.d20srd.org/srd/spells/spikeGrowth.htm)
 
 [Suggestion](https://www.d20srd.org/srd/spells/suggestion.htm)
 
@@ -174,6 +182,8 @@ Magic Circle Against Chaos/Law/[Evil](https://www.d20srd.org/srd/spells/magicCir
 
 [Charm Monster](https://www.d20srd.org/srd/spells/charmMonster.htm)
 
+[Control Water](https://www.d20srd.org/srd/spells/controlWater.htm)
+
 [Crushing Despair](https://www.d20srd.org/srd/spells/crushingDespair.htm)
 
 [Discern Lies](https://www.d20srd.org/srd/spells/discernLies.htm)
@@ -181,6 +191,8 @@ Magic Circle Against Chaos/Law/[Evil](https://www.d20srd.org/srd/spells/magicCir
 [Divination](https://www.d20srd.org/srd/spells/divination.htm)
 
 [Fear](https://www.d20srd.org/srd/spells/fear.htm)
+
+*Fortify Familiar*[^Complete Arcane p.108]
 
 [Giant Vermin](https://www.d20srd.org/srd/spells/giantVermin.htm)
 
@@ -204,11 +216,13 @@ Magic Circle Against Chaos/Law/[Evil](https://www.d20srd.org/srd/spells/magicCir
 
 *Trollshape*[^Player's Handbook II p.127] - Temporarily turns you into a troll
 
-*Whelm, Mass*[^Player's Handbook II p.128] - Does non-lethal damage to a bunch of creature
+*Whelm, Mass*[^Player's Handbook II p.128] - Does non-lethal damage to a bunch of creatures
 
 ### 5th Level
 
 [Baleful Polymorph](https://www.d20srd.org/srd/spells/balefulPolymorph.htm)
+
+[Control Winds](https://www.d20srd.org/srd/spells/controlWinds.htm)
 
 [Dream](https://www.d20srd.org/srd/spells/dream.htm)
 
@@ -254,15 +268,17 @@ Magic Circle Against Chaos/Law/[Evil](https://www.d20srd.org/srd/spells/magicCir
 
 [Hero's Feast](https://www.d20srd.org/srd/spells/heroesFeast.htm)
 
-~~Legend Lore~~ Too bardic, a loner witch probably wouldn't have to do with legends or lore. 
+*Imbue Familiar with Spell Ability*[^Complete Arcane p.112]
+
+[Legend Lore](https://www.d20srd.org/srd/spells/legendLore.htm)
 
 [Mass Suggestion](https://www.d20srd.org/srd/spells/suggestionMass.htm)
 
 [Mislead](https://www.d20srd.org/srd/spells/mislead.htm)
 
-[Repulsion](https://www.d20srd.org/srd/spells/repulsion.htm)
+*Programmed Image*[^Player's Handbook p.265]
 
-~~Shadow Image~~ Can't find this
+[Repulsion](https://www.d20srd.org/srd/spells/repulsion.htm)
 
 (Tenser's) [Transformation](https://www.d20srd.org/srd/spells/transformation.htm)
 
@@ -270,11 +286,17 @@ Magic Circle Against Chaos/Law/[Evil](https://www.d20srd.org/srd/spells/magicCir
 
 ### 7th Level
 
+[Control Weather](https://www.d20srd.org/srd/spells/controlWeather.htm)
+
 [Creeping Doom](https://www.d20srd.org/srd/spells/creepingDoom.htm)
+
+[Dream Travel](https://www.d20srd.org/srd/psionic/powers/dreamTravel.htm)
 
 [Finger of Death](https://www.d20srd.org/srd/spells/fingerOfDeath.htm)
 
 *Giant Size*[^Complete Arcane p.110] - Seems to fit with the shapeshifting theme
+
+*Bestow Curse, Greater* [^Complete Divine p.153] 
 
 [Insanity](https://www.d20srd.org/srd/spells/insanity.htm)
 
@@ -284,11 +306,11 @@ Magic Circle Against Chaos/Law/[Evil](https://www.d20srd.org/srd/spells/magicCir
 
 [Transport via Plants](https://www.d20srd.org/srd/spells/transportViaPlants.htm)
 
+[Whirlwind](https://www.d20srd.org/srd/spells/whirlwind.htm)
+
 ### 8th Level
 
 [Antipathy](https://www.d20srd.org/srd/spells/antipathy.htm)
-
-*Bestow Curse, Greater* [^Complete Divine p.153] - Could be 7th level if we're going by cleric level
 
 [Demand](https://www.d20srd.org/srd/spells/demand.htm)
 
@@ -310,11 +332,13 @@ Magic Circle Against Chaos/Law/[Evil](https://www.d20srd.org/srd/spells/magicCir
 
 *Dragonshape*[^Player's Handbook II p. 111] - You temporarily turn into an adult red dragon
 
-~~Earthquake~~ Doesn't seem that witchy to me
+[Earthquake](https://www.d20srd.org/srd/spells/earthquake.htm)
 
 [Foresight](https://www.d20srd.org/srd/spells/foresight.htm)
 
 [Refuge](https://www.d20srd.org/srd/spells/refuge.htm)
+
+[Shambler](https://www.d20srd.org/srd/spells/shambler.htm)
 
 [Shapechange](https://www.d20srd.org/srd/spells/shapechange.htm)
 
