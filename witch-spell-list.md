@@ -208,6 +208,8 @@ Magic Circle Against Chaos/Law/[Evil](https://www.d20srd.org/srd/spells/magicCir
 
 *Pain*[^Complete Arcane p.117] - Imposes penalty on certain rolls due to pain. Goes with other spells altering mental state. 
 
+[Phantasmal Killer](https://www.d20srd.org/srd/spells/phantasmalKiller.htm)
+
 [Polymorph](https://www.d20srd.org/srd/spells/polymorph.htm)
 
 [Remove Curse](https://www.d20srd.org/srd/spells/removeCurse.htm)
@@ -255,8 +257,6 @@ Magic Circle Against Chaos/Law/[Evil](https://www.d20srd.org/srd/spells/magicCir
 [Animate Objects](https://www.d20srd.org/srd/spells/animateObjects.htm)
 
 *Contagious Touch*[^Complete Divine p.159] - Similar to contagion, you can inflict disease on creatures.
-
-[Control Weather](https://www.d20srd.org/srd/spells/controlWeather.htm)
 
 [Eyebite](https://www.d20srd.org/srd/spells/eyebite.htm)
 
