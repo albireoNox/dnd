@@ -144,7 +144,7 @@ All spells listed in normal text are included from the list published in the DMG
 
 [Bestow Curse](https://www.d20srd.org/srd/spells/bestowCurse.htm)
 
-[Clairvoyance/Clairaudience](Clairvoyance/Clairaudience)
+[Clairvoyance/Clairaudience](https://www.d20srd.org/srd/spells/clairaudienceClairvoyance.htm)
 
 [Contagion](https://www.d20srd.org/srd/spells/contagion.htm)
 
@@ -155,6 +155,8 @@ All spells listed in normal text are included from the list published in the DMG
 [Dispel Magic](https://www.d20srd.org/srd/spells/dispelMagic.htm) - Seems a little too wizard-y, but pretty much every caster class has this so for now keeping it from the original list. 
 
 *Enhance Familiar*[^Complete Arcane p.105]
+
+*[Fly](https://www.d20srd.org/srd/spells/fly.htm)*
 
 (Leomund's) [Tiny Hut](https://www.d20srd.org/srd/spells/tinyHut.htm)
 
@@ -244,6 +246,8 @@ Magic Circle Against Chaos/Law/[Evil](https://www.d20srd.org/srd/spells/magicCir
 
 [Nightmare](https://www.d20srd.org/srd/monsters/nightmare.htm)
 
+*[Overland Flight](https://www.d20srd.org/srd/spells/overlandFlight.htm)*
+
 [Seeming](https://www.d20srd.org/srd/spells/seeming.htm)
 
 [Sending](https://www.d20srd.org/srd/spells/sending.htm)
@@ -272,9 +276,13 @@ Magic Circle Against Chaos/Law/[Evil](https://www.d20srd.org/srd/spells/magicCir
 
 [Legend Lore](https://www.d20srd.org/srd/spells/legendLore.htm)
 
+[Liveoak](https://www.d20srd.org/srd/spells/liveoak.htm)
+
 [Mass Suggestion](https://www.d20srd.org/srd/spells/suggestionMass.htm)
 
 [Mislead](https://www.d20srd.org/srd/spells/mislead.htm)
+
+*Overwhelm*[^Player's Handbook p.120]
 
 *Programmed Image*[^Player's Handbook p.265]
 
@@ -286,11 +294,11 @@ Magic Circle Against Chaos/Law/[Evil](https://www.d20srd.org/srd/spells/magicCir
 
 ### 7th Level
 
+[Changestaff](https://www.d20srd.org/srd/spells/changestaff.htm)
+
 [Control Weather](https://www.d20srd.org/srd/spells/controlWeather.htm)
 
 [Creeping Doom](https://www.d20srd.org/srd/spells/creepingDoom.htm)
-
-[Dream Travel](https://www.d20srd.org/srd/psionic/powers/dreamTravel.htm)
 
 [Finger of Death](https://www.d20srd.org/srd/spells/fingerOfDeath.htm)
 
@@ -300,13 +308,9 @@ Magic Circle Against Chaos/Law/[Evil](https://www.d20srd.org/srd/spells/magicCir
 
 [Insanity](https://www.d20srd.org/srd/spells/insanity.htm)
 
-[Liveoak](https://www.d20srd.org/srd/spells/liveoak.htm)
-
 [Repel Wood](https://www.d20srd.org/srd/spells/repelWood.htm)
 
 [Transport via Plants](https://www.d20srd.org/srd/spells/transportViaPlants.htm)
-
-[Whirlwind](https://www.d20srd.org/srd/spells/whirlwind.htm)
 
 ### 8th Level
 
@@ -315,6 +319,8 @@ Magic Circle Against Chaos/Law/[Evil](https://www.d20srd.org/srd/spells/magicCir
 [Demand](https://www.d20srd.org/srd/spells/demand.htm)
 
 [Discern Location](https://www.d20srd.org/srd/spells/discernLocation.htm)
+
+*Dream Travel*[^Manual of the Planes p.202]
 
 *Ghostform*[^Complete Arcane p.109] - Turns you incorporeal
 
@@ -327,6 +333,8 @@ Magic Circle Against Chaos/Law/[Evil](https://www.d20srd.org/srd/spells/magicCir
 [Sympathy](https://www.d20srd.org/srd/spells/sympathy.htm)
 
 [Trap the Soul](https://www.d20srd.org/srd/spells/trapTheSoul.htm)
+
+[Whirlwind](https://www.d20srd.org/srd/spells/whirlwind.htm)
 
 ### 9th Level
 
