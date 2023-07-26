@@ -354,3 +354,8 @@ Magic Circle Against Chaos/Law/[Evil](https://www.d20srd.org/srd/spells/magicCir
 
 [Weird](https://www.d20srd.org/srd/spells/weird.htm)
 
+## Additional Features
+
+Brew potion - bonus feat at 3rd level. 
+
+Wild shape - as a druid, animals only, but size and times per day increase as a druid
