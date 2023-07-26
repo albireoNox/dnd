@@ -174,6 +174,8 @@ Stay the Hand [^Player's Handbook II p.126]
 
 Tree Shape [^Player's Handbook p.296]
 
+Undetectable Alignment [^Player's Handbook p.297]
+
 [Whispering Wind](https://www.d20srd.org/srd/spells/whisperingWind.htm)
 
 ### 3rd Level
@@ -236,6 +238,8 @@ Weather Eye [^Complete Divine p.189] - Druid 3, Cleric 4
 
 ### 4th Level
 
+Assay Resistance [^Complete Arcane p.98]
+
 *Call of Stone*[^Player's Handbook II p.105] - slowly turns a creature to stone
 
 [Charm Monster](https://www.d20srd.org/srd/spells/charmMonster.htm)
@@ -266,6 +270,8 @@ Gaes, Lesser [^Player's Handbook p.235]  - Bard 3, Sorcerer 4
 
 Modify Memory [^Player's Handbook p.255]
 
+Mystic Surge [^Player's Handbook II p.120]
+
 [Neutralize Poison](https://www.d20srd.org/srd/spells/neutralizePoison.htm)
 
 *Pain*[^Complete Arcane p.117] - Imposes penalty on certain rolls due to pain. Goes with other spells altering mental state. 
@@ -280,6 +286,8 @@ Reduce Person, Mass [^Player's Handbook p.269]
 
 [Scrying](https://www.d20srd.org/srd/spells/scrying.htm)
 
+Stifle Spell [^Player's Handbook II p.126]
+
 *Trollshape*[^Player's Handbook II p.127] - Temporarily turns you into a troll
 
 Water to Poison [^Complete Arcane p.129]
@@ -287,6 +295,8 @@ Water to Poison [^Complete Arcane p.129]
 *Whelm, Mass*[^Player's Handbook II p.128] - Does non-lethal damage to a bunch of creatures
 
 ### 5th Level
+
+Aiming at the Target [^Complete Arcane p.96]
 
 [Baleful Polymorph](https://www.d20srd.org/srd/spells/balefulPolymorph.htm)
 
@@ -301,6 +311,8 @@ Commune with Nature [^Player's Handbook p.211] - Druid 5, Ranger 4
 [False Vision](https://www.d20srd.org/srd/spells/falseVision.htm)
 
 [Feeblemind](https://www.d20srd.org/srd/spells/feeblemind.htm)
+
+Fly, Mass [^Complete Arcane p.108]
 
 [Greater Command](https://www.d20srd.org/srd/spells/commandGreater.htm)
 
@@ -317,6 +329,10 @@ Mind Fog [^Player's Handbook p.253]
 [Nightmare](https://www.d20srd.org/srd/monsters/nightmare.htm)
 
 *[Overland Flight](https://www.d20srd.org/srd/spells/overlandFlight.htm)*
+
+Permanency [^Player's Handbook p.259]
+
+Reciprocal Gyre [^Complete Arcane p.119]
 
 [Seeming](https://www.d20srd.org/srd/spells/seeming.htm)
 
@@ -411,6 +427,8 @@ Death Pact [^Complete Divine p. 161]
 [Discern Location](https://www.d20srd.org/srd/spells/discernLocation.htm)
 
 *Dream Travel*[^Manual of the Planes p.202]
+
+Finding the Center [^Complete Arcane p.106]
 
 *Ghostform*[^Complete Arcane p.109] - Turns you incorporeal
 
