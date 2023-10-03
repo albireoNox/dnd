@@ -44,9 +44,13 @@ All spells listed in normal text are included from the list published in the DMG
 
 [Ghost Sound](https://www.d20srd.org/srd/spells/ghostSound.htm)
 
+Know Direction [^Player's Handbook p.246]
+
 [Light](https://www.d20srd.org/srd/spells/light.htm)
 
 [Mending](https://www.d20srd.org/srd/spells/mending.htm)
+
+Purify Food and Drink [^Player's Handbook p.267]
 
 [Read Magic](https://www.d20srd.org/srd/spells/readMagic.htm)
 
@@ -58,7 +62,11 @@ All spells listed in normal text are included from the list published in the DMG
 
 *Backbiter*[^Complete Arcane p.98] - Causes a wooden-hafted or wooden weapon to attack the user
 
+Calm Animals [^Player's Handbook p.207]
+
 [Cause Fear](https://www.d20srd.org/srd/spells/causeFear.htm)
+
+Charm Animal [^Player's Handbook p.208]
 
 [Charm Person](https://www.d20srd.org/srd/spells/charmPerson.htm)
 
@@ -74,9 +82,13 @@ All spells listed in normal text are included from the list published in the DMG
 
 [Endure Elements](https://www.d20srd.org/srd/spells/endureElements.htm)
 
+Enlarge Person [^Player's Handbook p.226]
+
 [Entangle](https://www.d20srd.org/srd/spells/entangle.htm)
 
 *Ghost Light*[^Complete Arcane p.109] - Creates light that can cause creatures nearby to be shaken
+
+Hawkeye [^Complete Divine p.166]
 
 [Hypnotism](https://www.d20srd.org/srd/spells/hypnotism.htm)
 
@@ -84,11 +96,17 @@ All spells listed in normal text are included from the list published in the DMG
 
 *Omen of Peril*[^Complete Divine p.171] - Gives the caster a portent of the future, with a chance for failure
 
+Reduce Person [^Player's Handbook p.269]
+
 *Rouse*[^Player's Handbook II p.123] - Wakes up sleeping creatures
 
 *Scales of the Lizard*[^Complete Arcane p.121] - Gives you AC bonus
 
+Secret Signs [^Complete Arcane p.121]
+
 [Silent Image](https://www.d20srd.org/srd/spells/silentImage.htm)
+
+Smoke Ladder [^Complete Arcane p.122]
 
 [Sleep](https://www.d20srd.org/srd/spells/sleep.htm)
 
@@ -104,7 +122,13 @@ All spells listed in normal text are included from the list published in the DMG
 
 [Alter Self](https://www.d20srd.org/srd/spells/alterSelf.htm)
 
+Animal Messenger [^Player's Handbook p.198]
+
+Animalistic Power [^Player's Handbook II p.101]
+
 *Apparition*[^Compete Arcane p.97] - Makes people ugly
+
+Black Karma Curse [^Complete Divine p.103]
 
 [Blindness/Deafness](Blindness/Deafness)
 
@@ -112,9 +136,13 @@ All spells listed in normal text are included from the list published in the DMG
 
 *Chameleon*[^Complete Arcane p.100] - Hides people by making the blend in to background
 
+Command Undead [^Player's Handbook p.211]
+
 [Cure Moderate Wounds](https://www.d20srd.org/srd/spells/cureModerateWounds.htm) 
 
 *Curse of Ill Fortune*[^Complete Divine p.160] - Temporary curse imposing -3 to attack, saving throw, ability check, and skill check rolls. 
+
+Decomposition [^Complete Divine p.161]
 
 [Delay Poison](https://www.d20srd.org/srd/spells/delayPoison.htm)
 
@@ -126,7 +154,13 @@ All spells listed in normal text are included from the list published in the DMG
 
 *Kiss of the Toad*[^Complete Arcane p.113] - Poisons a creature on a touch attack. Included largely due to the name
 
+*Increase Virulence* [^Player's Handbook II p.115]
+
 [Invisibility](https://www.d20srd.org/srd/spells/invisibility.htm) 
+
+Levitate [^Player's Handbook p. 248]
+
+Linked Perception [^Player's Handbook II p.117]
 
 [Locate Object](https://www.d20srd.org/srd/spells/locateObject.htm)
 
@@ -134,7 +168,17 @@ All spells listed in normal text are included from the list published in the DMG
 
 *Phantasmal Assailants*[^Complete Arcane p.117] - Imposes Dex and Wis damage due to nightmarish illusions. 
 
+Reduce Animal [^Player's Handbook p.269] - Druid 2, Ranger 3
+
 [Scare](https://www.d20srd.org/srd/spells/scare.htm)
+
+Scent [^Complete Divine p.178]
+
+Stay the Hand [^Player's Handbook II p.126]
+
+Tree Shape [^Player's Handbook p.296]
+
+Undetectable Alignment [^Player's Handbook p.297]
 
 [Whispering Wind](https://www.d20srd.org/srd/spells/whisperingWind.htm)
 
@@ -146,29 +190,49 @@ All spells listed in normal text are included from the list published in the DMG
 
 [Clairvoyance/Clairaudience](https://www.d20srd.org/srd/spells/clairaudienceClairvoyance.htm)
 
+Commune with Lesser Spirit [^Complete Arcane p.101]
+
 [Contagion](https://www.d20srd.org/srd/spells/contagion.htm)
 
+Corpse Candle [^Complete Arcane p. 101]
+
 [Create Food and Water](https://www.d20srd.org/srd/spells/createFoodAndWater.htm)
+
+Diminish Plants [^Player's Handbook p.221]
 
 *Discern Shapechanger*[^Complete Arcane p.103] - Shapechanging is the witch's specialty, so it seems like they should be able to detect it in others. 
 
 [Dispel Magic](https://www.d20srd.org/srd/spells/dispelMagic.htm) - Seems a little too wizard-y, but pretty much every caster class has this so for now keeping it from the original list. 
 
+Dominate Animal [^Player's Handbook p.224]
+
 *Enhance Familiar*[^Complete Arcane p.105]
 
 *[Fly](https://www.d20srd.org/srd/spells/fly.htm)*
 
-(Leomund's) [Tiny Hut](https://www.d20srd.org/srd/spells/tinyHut.htm)
+Glibness [^Player's Handbook p.235]
+
+Heroism [^Player's Handbook p.240] - Bard 2, Sorcerer 3
 
 *Hesitate*[^Player's Handbook II p.114] - Can cause the subject to take no action other than move. 
+
+Inevitable Defeat [^Player's Handbook II p.115]
+
+(Leomund's) [Tiny Hut](https://www.d20srd.org/srd/spells/tinyHut.htm)
 
 Magic Circle Against Chaos/Law/[Evil](https://www.d20srd.org/srd/spells/magicCircleAgainstEvil.htm)/Good
 
 [Major Image](https://www.d20srd.org/srd/spells/majorImage.htm)
 
+Poison [^Player's Handbook p.262] - druid 3, cleric 4
+
 [Rage](https://www.d20srd.org/srd/spells/rage.htm)
 
 [Remove Blindness/Deafness](https://www.d20srd.org/srd/spells/removeBlindnessDeafness.htm)
+
+Remove Disease [^Player's Handbook p.271]
+
+Speak with Plants [^Player's Handbook p.282] - Bard 4, Druid 3, Ranger 2
 
 [Spike Growth](https://www.d20srd.org/srd/spells/spikeGrowth.htm)
 
@@ -178,7 +242,13 @@ Magic Circle Against Chaos/Law/[Evil](https://www.d20srd.org/srd/spells/magicCir
 
 *Vigor*[^Complete Divine p.186] - Healing over time
 
+Weather Eye [^Complete Divine p.189] - Druid 3, Cleric 4
+
 ### 4th Level
+
+Assay Resistance [^Complete Arcane p.98]
+
+Baleful Blink [^Complete Divine p.102]
 
 *Call of Stone*[^Player's Handbook II p.105] - slowly turns a creature to stone
 
@@ -196,6 +266,8 @@ Magic Circle Against Chaos/Law/[Evil](https://www.d20srd.org/srd/spells/magicCir
 
 *Fortify Familiar*[^Complete Arcane p.108]
 
+Gaes, Lesser [^Player's Handbook p.235]  - Bard 3, Sorcerer 4
+
 [Giant Vermin](https://www.d20srd.org/srd/spells/giantVermin.htm)
 
 [Good Hope](https://www.d20srd.org/srd/spells/goodHope.htm)
@@ -206,6 +278,10 @@ Magic Circle Against Chaos/Law/[Evil](https://www.d20srd.org/srd/spells/magicCir
 
 [Minor Creation](https://www.d20srd.org/srd/spells/minorCreation.htm)
 
+Modify Memory [^Player's Handbook p.255]
+
+Mystic Surge [^Player's Handbook II p.120]
+
 [Neutralize Poison](https://www.d20srd.org/srd/spells/neutralizePoison.htm)
 
 *Pain*[^Complete Arcane p.117] - Imposes penalty on certain rolls due to pain. Goes with other spells altering mental state. 
@@ -214,25 +290,43 @@ Magic Circle Against Chaos/Law/[Evil](https://www.d20srd.org/srd/spells/magicCir
 
 [Polymorph](https://www.d20srd.org/srd/spells/polymorph.htm)
 
+Reduce Person, Mass [^Player's Handbook p.269]
+
 [Remove Curse](https://www.d20srd.org/srd/spells/removeCurse.htm)
 
 [Scrying](https://www.d20srd.org/srd/spells/scrying.htm)
 
+Stifle Spell [^Player's Handbook II p.126]
+
 *Trollshape*[^Player's Handbook II p.127] - Temporarily turns you into a troll
+
+Water to Poison [^Complete Arcane p.129]
 
 *Whelm, Mass*[^Player's Handbook II p.128] - Does non-lethal damage to a bunch of creatures
 
 ### 5th Level
 
+Aiming at the Target [^Complete Arcane p.96]
+
+Awaken [^Player's Handbook p. 202]
+
 [Baleful Polymorph](https://www.d20srd.org/srd/spells/balefulPolymorph.htm)
 
+Command, Greater [^Player's Handbook p.211]
+
+Commune with Nature [^Player's Handbook p.211] - Druid 5, Ranger 4
+
 [Control Winds](https://www.d20srd.org/srd/spells/controlWinds.htm)
+
+Dominate Person [^Player's Handbook p.224]
 
 [Dream](https://www.d20srd.org/srd/spells/dream.htm)
 
 [False Vision](https://www.d20srd.org/srd/spells/falseVision.htm)
 
 [Feeblemind](https://www.d20srd.org/srd/spells/feeblemind.htm)
+
+Fly, Mass [^Complete Arcane p.108]
 
 [Greater Command](https://www.d20srd.org/srd/spells/commandGreater.htm)
 
@@ -242,19 +336,31 @@ Magic Circle Against Chaos/Law/[Evil](https://www.d20srd.org/srd/spells/magicCir
 
 [Major Creation](https://www.d20srd.org/srd/spells/majorCreation.htm)
 
+Mind Fog [^Player's Handbook p.253]
+
 [Mirage Arcana](https://www.d20srd.org/srd/spells/mirageArcana.htm)
 
 [Nightmare](https://www.d20srd.org/srd/monsters/nightmare.htm)
 
 *[Overland Flight](https://www.d20srd.org/srd/spells/overlandFlight.htm)*
 
+Permanency [^Player's Handbook p.259]
+
+Reciprocal Gyre [^Complete Arcane p.119]
+
 [Seeming](https://www.d20srd.org/srd/spells/seeming.htm)
 
 [Sending](https://www.d20srd.org/srd/spells/sending.htm)
 
+[Telekinesis](https://www.d20srd.org/srd/spells/telekinesis.htm)
+
 *Toxic Weapon*[^Player's Handbook II p.126] - Adds poison damage to the next hit from target weapon
 
+Tree Stride [^Player's Handbook p.296]
+
 *Vigor, Greater*[^Complete Divine p.186] - Healing over time
+
+Wood Rot [^Complete Arcane p. 130]
 
 ### 6th Level
 
@@ -262,13 +368,19 @@ Magic Circle Against Chaos/Law/[Evil](https://www.d20srd.org/srd/spells/magicCir
 
 *Contagious Touch*[^Complete Divine p.159] - Similar to contagion, you can inflict disease on creatures.
 
+Curse of Lycanthropy [^Complete Divine p.160]
+
 [Eyebite](https://www.d20srd.org/srd/spells/eyebite.htm)
+
+Fiendform [^Compete Arcane p.106]
 
 [Find the Path](https://www.d20srd.org/srd/spells/findThePath.htm)
 
 [Geas/Quest](https://www.d20srd.org/srd/spells/geasQuest.htm)
 
 [Greater Scrying](https://www.d20srd.org/srd/spells/scryingGreater.htm)
+
+Heroism, Greater [^Player's Handbook p.240] - Bard 5, Sorcerer 6
 
 [Hero's Feast](https://www.d20srd.org/srd/spells/heroesFeast.htm)
 
@@ -290,11 +402,19 @@ Magic Circle Against Chaos/Law/[Evil](https://www.d20srd.org/srd/spells/magicCir
 
 (Tenser's) [Transformation](https://www.d20srd.org/srd/spells/transformation.htm)
 
+Transfix [^Complete Arcane p.127]
+
 [True Seeing](https://www.d20srd.org/srd/spells/trueSeeing.htm)
 
 ### 7th Level
 
+Animalistic Power, Mass [^Player's Handbook II p.101]
+
 [Changestaff](https://www.d20srd.org/srd/spells/changestaff.htm)
+
+Commune with Greater Spirit [^Complete Arcane p.101]
+
+Control Undead [^Player's Handbook p.214]
 
 [Control Weather](https://www.d20srd.org/srd/spells/controlWeather.htm)
 
@@ -308,6 +428,8 @@ Magic Circle Against Chaos/Law/[Evil](https://www.d20srd.org/srd/spells/magicCir
 
 [Insanity](https://www.d20srd.org/srd/spells/insanity.htm)
 
+Reanimation [^Complete Arcane p.119]
+
 [Repel Wood](https://www.d20srd.org/srd/spells/repelWood.htm)
 
 [Transport via Plants](https://www.d20srd.org/srd/spells/transportViaPlants.htm)
@@ -316,17 +438,33 @@ Magic Circle Against Chaos/Law/[Evil](https://www.d20srd.org/srd/spells/magicCir
 
 [Antipathy](https://www.d20srd.org/srd/spells/antipathy.htm)
 
+Awaken, Mass [^Complete Divine p.151]
+
+Charm Monster, Mass [^Player's Handbook 209] - Bard 6, Sorcerer 8
+
+Death Pact [^Complete Divine p. 161]
+
 [Demand](https://www.d20srd.org/srd/spells/demand.htm)
 
 [Discern Location](https://www.d20srd.org/srd/spells/discernLocation.htm)
 
 *Dream Travel*[^Manual of the Planes p.202]
 
+Finding the Center [^Complete Arcane p.106]
+
 *Ghostform*[^Complete Arcane p.109] - Turns you incorporeal
+
+Heart of Stone [^Complete Arcane p.110]
 
 [Horrid Wilting](https://www.d20srd.org/srd/spells/horridWilting.htm)
 
+Maddening Scream [^Complete Divine p.168]
+
 *Minute Form*[^Complete Arcane p.115] - Similar to giant size
+
+Moment of Prescience [^Player's Handbook p. 255]
+
+Plague [^Player's Handbook II p.121] - cleric 7, druid 7, sorcerer 8
 
 [Polymorph any Object](https://www.d20srd.org/srd/spells/polymorphAnyObject.htm)
 
@@ -334,9 +472,15 @@ Magic Circle Against Chaos/Law/[Evil](https://www.d20srd.org/srd/spells/magicCir
 
 [Trap the Soul](https://www.d20srd.org/srd/spells/trapTheSoul.htm)
 
+True Domination [^Complete Divine p.185]
+
+Visions of the Future [^Player's Handbook II p.128]
+
 [Whirlwind](https://www.d20srd.org/srd/spells/whirlwind.htm)
 
 ### 9th Level
+
+Dominate Monster [^Player's Handbook p.224]
 
 *Dragonshape*[^Player's Handbook II p. 111] - You temporarily turn into an adult red dragon
 
@@ -344,11 +488,17 @@ Magic Circle Against Chaos/Law/[Evil](https://www.d20srd.org/srd/spells/magicCir
 
 [Foresight](https://www.d20srd.org/srd/spells/foresight.htm)
 
+Monstrous Thrall [^Complete Divine p.169]
+
+Programmed Amnesia [^Complete Arcane p.118]
+
 [Refuge](https://www.d20srd.org/srd/spells/refuge.htm)
 
 [Shambler](https://www.d20srd.org/srd/spells/shambler.htm)
 
 [Shapechange](https://www.d20srd.org/srd/spells/shapechange.htm)
+
+Soulbind [^Player's Handbook p.281]
 
 [Wail of the Banshee](https://www.d20srd.org/srd/spells/wailOfTheBanshee.htm)
 
