@@ -352,6 +352,8 @@ Reciprocal Gyre [^Complete Arcane p.119]
 
 [Sending](https://www.d20srd.org/srd/spells/sending.htm)
 
+[Telekinesis](https://www.d20srd.org/srd/spells/telekinesis.htm)
+
 *Toxic Weapon*[^Player's Handbook II p.126] - Adds poison damage to the next hit from target weapon
 
 Tree Stride [^Player's Handbook p.296]
